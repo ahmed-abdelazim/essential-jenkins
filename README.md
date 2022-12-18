@@ -2,7 +2,9 @@
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Jenkins Essential Training][lil-thumbnail-url] 
+
 [![Build Status](https://jenkins.constantcontact1.com/buildStatus/icon?job=mytest)](https://jenkins.constantcontact1.com/job/mytest/)
+
 If you want to build, deploy, and implement continuous delivery as code, you’ve likely heard about Jenkins, the popular DevOps suite known for its open-source extensibility and ease of use. Jenkins also lets you automate your entire enterprise as a software delivery pipeline. In this course, instructor Michael Jenkins shows you the fundamentals of navigating the platform so you can start automating builds and testing and securing deployments.
 
 Learn about the core functions of Jenkins, progressing from intermediate to more advanced use cases and highlighting best practices and customization tips. Find out how to create a pipeline, integrate Jenkins with version control systems, distribute agents like Docker containers, run and publish tests, produce artifacts for review, and secure your DevOps loop by configuring users and permissions. Try out your new skills along the way in the challenges at the end of each section.
